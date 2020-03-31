@@ -23,6 +23,7 @@
 "1,2,3,test,boo"
 
 > > > a.pop();
+
 [1, 2, 3, "test"]
 
 > > > a.toString();
